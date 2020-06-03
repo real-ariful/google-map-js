@@ -1,6 +1,5 @@
 ## API Key
-
-AIzaSyBh15L6ZQVrZVsMjwAhb_3-X6bbgpSGtQk
+Get from Google
 
 **WARNING**
 DO NOT SHARE IT WITH ANYONE
